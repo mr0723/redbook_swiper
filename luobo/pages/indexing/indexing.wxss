@@ -1,0 +1,40 @@
+.imgs{
+  width: 100%;
+  height: 600rpx;
+}
+.dots{
+  width: 200rpx;
+  height: 20rpx;
+  margin:0 auto;
+  margin-top: 30rpx;
+}
+.sty_content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dot{
+  width: 20rpx;
+  height: 20rpx;
+  border-radius: 50%;
+  background: pink;
+  float: left;
+  margin-left: 10rpx;
+}
+.dot1{
+  width: 10rpx;
+  height: 10rpx;
+  border-radius: 20rpx;
+  background: pink;
+  float: left;
+  margin-left: 10rpx;
+}
+.active{
+  background: yellowgreen;
+}
+.dots_two{
+  width: 200rpx;
+   height: 20rpx;
+  margin:0 auto;
+  margin-top:30rpx;
+}
